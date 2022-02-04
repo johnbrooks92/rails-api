@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fabric_name: MyString
+  fabric_type: MyString
+  price_per_yard: 9.99
+  quantity_available: 9.99
+
+two:
+  fabric_name: MyString
+  fabric_type: MyString
+  price_per_yard: 9.99
+  quantity_available: 9.99
